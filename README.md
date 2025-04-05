@@ -13,6 +13,8 @@ I discovered that the website displays jobs across multiple pages. That pushed m
 
 ### What did I gain from this?
 ✔ A deeper understanding of the job market requirements for data analysis roles.
+
 ✔ Improved my skills in web scraping and data cleaning.
+
 ✔ Prepared a real-world dataset that can be analyzed and used to extract insights.
 
