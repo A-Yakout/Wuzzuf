@@ -5,7 +5,9 @@ One of the most important skills in data analysis is data collection and cleanin
 
 ### What did I do?
 🔹 I used BeautifulSoup to extract the data.
+
 🔹 I collected information about job titles, companies, locations, and the time the job was posted.
+
 🔹 I cleaned the data and saved it in an Excel file for easy analysis.
 
 ### The challenge I faced:
